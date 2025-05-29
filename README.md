@@ -2,6 +2,8 @@
 
 A powerful AI-driven application that transforms outdated websites into modern, responsive designs using LangGraph.js, MCP (Model Context Protocol), TailwindCSS, Next.js 15, and Playwright.
 
+![demo](./doc/demo.png)
+
 ## Features
 
 - 🕷️ **Intelligent Web Scraping**: Automatically extract HTML, CSS, and content from any website using Playwright
