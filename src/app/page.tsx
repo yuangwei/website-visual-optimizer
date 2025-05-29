@@ -150,7 +150,7 @@ export default function Home() {
                   {[
                     'https://google.com',
                     'https://berkshirehathaway.com',
-                    'https://motherfuckingwebsite.com'
+                    'https://baidu.com'
                   ].map((exampleUrl) => (
                     <button
                       key={exampleUrl}
